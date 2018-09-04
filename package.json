@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://philson-philip.github.io/react-antdesign",
   "dependencies": {
+    "antd": "^3.9.1",
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
