@@ -10,3 +10,7 @@
 .login-form-button {
   width: 300px;
 }
+.login-title {
+  text-align: center;
+  color: #000;
+}
